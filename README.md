@@ -4,7 +4,7 @@ A production-ready RAG (Retrieval-Augmented Generation) system that can retrieve
 
 ## Confidentiality Notice
 
-**This repository represents a demonstration implementation that showcases the architectural methodologies, design patterns, and technical frameworks I employ in production enterprise environments.** While the core system design, implementation strategies, and engineering approaches are authentic representations of my professional work, specific business logic, proprietary algorithms, and client-sensitive details have been abstracted or reimplemented to comply with confidentiality agreements and intellectual property obligations.
+**Due to NDA restrictions, this repository contains a simplified version that reflects the techniques and thought processes used in my real-world work. The implementation demonstrates the architectural patterns, design principles, and technical approaches employed in production enterprise systems, while maintaining confidentiality of proprietary business logic and sensitive implementation details** While the core system design, implementation strategies, and engineering approaches are authentic representations of my professional work, specific business logic, proprietary algorithms, and client-sensitive details have been abstracted or reimplemented to comply with confidentiality agreements and intellectual property obligations.
 
 ## Features
 
